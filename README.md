@@ -37,7 +37,7 @@
 <div id="licensesection">
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">
-<img alt="Creative Commons License" src="../somerights20.gif" /></a><br />
+<!-- <img alt="Creative Commons License" src="../somerights20.gif" /></a><br /> -->
 <span class="license">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a></span>.
 <!-- /Creative Commons License -->
 
@@ -103,7 +103,7 @@ behavior reported in, for example, Díaz-Uriarte, 1999 ("Anti-predator behavior
 changes following an aggressive encounter in the lizard <em>Tropidurus
 hispidus</em>." <a name="antip.paper">Proceedings of the Royal Society of London, Series B, 266:
 2457--2464</a> or
-chapter 1 of <a href="http://bioinfo.cnio.es/~rdiaz/Thesis.RDiaz.pdf">my PhD thesis</a>). I show here only a set of programs (those used in the
+chapter 1 of <a href="http://ligarto.org/rdiaz/Papers/Publications.html#other">my PhD thesis</a>). I show here only a set of programs (those used in the
 first set of experiments reported in that paper), but many modifications, for
 other experiments and observations, were used. Sure enough, it is trivial to
 use the HP 48 just to record data (e.g, I used a lot to collect biometric
@@ -137,8 +137,8 @@ from <a href="http://www.gnu.org/licenses/licenses.html#GPL">the GNU licenses' p
 
 <h3>Programs' documentation license</h3>
 
-The <a href="BehHP48-manual.html">"manual"</a> is under the
-<a href="BehHP48-manual.html#SEC1">GNU Free Documentation License</a>.
+The <a href="BehHP48-manual.md">"manual"</a> is under the
+<a href="BehHP48-manual.md#SEC1">GNU Free Documentation License</a>.
 
 <h3>This file's license</h3>
 As mentioned above, this is licensed under a
@@ -206,7 +206,7 @@ ones I would not consider these. Things are pretty much the same for the
 Pocket PC.</p>
 
 
-<p>After a quick search in <a href="http://www.google.com">Google</a> I found a
+<p>After a quick search in Google I found a
 product called "Outdoor explorer", for the Palm, that not only sells for the
 very affordable <a
 href="http://www.biobserve.com/mobile_systems/outdoor_explorer/prices.html">price</a>
