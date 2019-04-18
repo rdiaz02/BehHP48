@@ -1,48 +1,30 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-<meta name="generator" content="XEmacs http://www.xemacs.org and Bluefish 0.12 http://bluefish.openoffice.nl/" />
-<meta name="author" content="Ramón Díaz-Uriarte" />
-<meta name="keywords" content="behavior animal recording handheld Palm HP48 calculator PocketPC python programm" />
-<meta name="description" content="Behavioral recording programs with the HP 48 calculator" />
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15" />
-<link rel="stylesheet" type="text/css" href="../RDUstyle1.css" />
-<title>Behavioral Recording with the HP 48 Calculator</title>
-</head>
-<body>
-<div id="page">
 
 
+<!-- <br /> -->
+<!-- <p><span class="sidetitle">This document</span></p> -->
+<!-- <a href="#license" title="Before we go on: licenses">Licenses</a> -->
+<!-- <a href="#do" title="What the programs do">What?</a> -->
+<!-- <a href="#why" title="Why record behavior using an HP48 calculator?">Why?</a> -->
+<!-- <a href="#alternatives" title="Alternatives: Things I would do differently now">Alternatives</a> -->
+<!-- <a href="#flow" title="Basic program flow">Flow</a> -->
+<!-- <a href="#cmm" title="The C++ programs">C++ progr.</a> -->
+<!-- <a href="#hp" title="The HP 48 programs">HP 48 progr.</a> -->
 
-<div id="sectionnav">
-<p><span class="sidetitle">Site</span></p>
-<a href="../index.html" title="Home">Home</a>
-
-<br />
-<p><span class="sidetitle">This document</span></p>
-<a href="#license" title="Before we go on: licenses">Licenses</a>
-<a href="#do" title="What the programs do">What?</a>
-<a href="#why" title="Why record behavior using an HP48 calculator?">Why?</a>
-<a href="#alternatives" title="Alternatives: Things I would do differently now">Alternatives</a>
-<a href="#flow" title="Basic program flow">Flow</a>
-<a href="#cmm" title="The C++ programs">C++ progr.</a>
-<a href="#hp" title="The HP 48 programs">HP 48 progr.</a>
-
-<br />
+<!-- <br /> -->
 
 
 
 
-<p><span class="sidetitle">BehHP48</span></p>
-<a href="BehHP48-manual.html" title="Documentation for the HP 48 programs">Documentation</a>
-<a href="#download" title="Download">Download</a>
-<!-- <a href="GPL.txt" title="GPL license (local copy)">GPL License (local)</a> -->
-<!-- <a href="http://www.gnu.org/licenses/licenses.html#GPL" title="GPL license (GNU site)">GPL License (GNU site)</a> -->
-<a href="OriginalEmailHP48.html" title="Original email that got all going
-(local)">History (local copy)</a>
-<a href="http://segate.sunet.se/cgi-bin/wa?A2=ind9606&amp;L=ethology&amp;F=&amp;S=&amp;P=4352"
-title="Original email that got all going">History</a>
-</div>
+<!-- <p><span class="sidetitle">BehHP48</span></p> -->
+<!-- <a href="BehHP48-manual.html" title="Documentation for the HP 48 programs">Documentation</a> -->
+<!-- <a href="#download" title="Download">Download</a> -->
+<!-- <\!-- <a href="GPL.txt" title="GPL license (local copy)">GPL License (local)</a> -\-> -->
+<!-- <\!-- <a href="http://www.gnu.org/licenses/licenses.html#GPL" title="GPL license (GNU site)">GPL License (GNU site)</a> -\-> -->
+<!-- <a href="OriginalEmailHP48.html" title="Original email that got all going -->
+<!-- (local)">History (local copy)</a> -->
+<!-- <a href="http://segate.sunet.se/cgi-bin/wa?A2=ind9606&amp;L=ethology&amp;F=&amp;S=&amp;P=4352" -->
+<!-- title="Original email that got all going">History</a> -->
+<!-- </div> -->
 
 
 
@@ -356,14 +338,6 @@ C++ files, the documentation, and this file.
 
 <hr />
 
-<p>
-<a href="http://validator.w3.org/check?uri=referer">
-<img src="../valid-xhtml10.png" width="88" height="31" alt="Valid XHTML 1.0!" /></a>
-
-<a href="http://www.anybrowser.org/campaign/"> 
-<img src="../anybrowser3.gif" width="88" height="31" alt="Viewable With Any
-Browser" /></a>
-</p>
 
 
 </div> 
