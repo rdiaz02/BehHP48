@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-<meta name="generator" content="XEmacs http://www.xemacs.org" />
-<meta name="author" content="Ram&oacute;n D&iacute;az-Uriarte" />
-<meta name="keywords" content="behavior animal recording HP48 RPL programm" />
-<meta name="description" content="Documentation for BehHP48: a set of HP 48
-calculator programs for recording behavior" />
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15" />
-<link rel="stylesheet" type="text/css" href="../RDUstyle1.css" />
-<title>Documentation for the BehHP48 Programs</title>
-</head>
+<!-- <?xml version="1.0" encoding="iso-8859-15"?> -->
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> -->
+<!-- <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> -->
+<!-- <head> -->
+<!-- <meta name="generator" content="XEmacs http://www.xemacs.org" /> -->
+<!-- <meta name="author" content="Ram&oacute;n D&iacute;az-Uriarte" /> -->
+<!-- <meta name="keywords" content="behavior animal recording HP48 RPL programm" /> -->
+<!-- <meta name="description" content="Documentation for BehHP48: a set of HP 48 -->
+<!-- calculator programs for recording behavior" /> -->
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15" /> -->
+<!-- <link rel="stylesheet" type="text/css" href="../RDUstyle1.css" /> -->
+<!-- <title>Documentation for the BehHP48 Programs</title> -->
+<!-- </head> -->
 
-<body>
-<div id="page">
+<!-- <body> -->
+<!-- <div id="page"> -->
 
 
 
-<div id="sectionnav">
-<p><span class="sidetitle">Document contents</span></p>
-  <a href="#Set">The set of programs</a>
-<a href="#bundle">Structure and use of the bundle</a>
-  <a href="#What">What the HP 48 programs do</a>
-  <a href="#Cmm">The C++ programs</a>
-<a href="#How">How the programs work: details</a>
-<a href="#alarms">Some details of how alarms and counter work in the antipredator part</a>
-<a href="#focal">Duration of focal session</a>
-<a href="#new">New stuff for the exp programs</a>
-<a href="#stand">Standardizing times</a>
-<a href="#flow">General comments on flow of program</a>
-<a href="#fazenda">Comments on a program version for the experiment in Fazenda Santo Antonio</a>
-<a href="#encl">Enclosures version (the one available)</a>
-<a href="#SEC1">GNU Free Documentation License</a>
-<a href="#SEC4">How to use this License for your documents</a>  
+<!-- <div id="sectionnav"> -->
+<!-- <p><span class="sidetitle">Document contents</span></p> -->
+<!--   <a href="#Set">The set of programs</a> -->
+<!-- <a href="#bundle">Structure and use of the bundle</a> -->
+<!--   <a href="#What">What the HP 48 programs do</a> -->
+<!--   <a href="#Cmm">The C++ programs</a> -->
+<!-- <a href="#How">How the programs work: details</a> -->
+<!-- <a href="#alarms">Some details of how alarms and counter work in the antipredator part</a> -->
+<!-- <a href="#focal">Duration of focal session</a> -->
+<!-- <a href="#new">New stuff for the exp programs</a> -->
+<!-- <a href="#stand">Standardizing times</a> -->
+<!-- <a href="#flow">General comments on flow of program</a> -->
+<!-- <a href="#fazenda">Comments on a program version for the experiment in Fazenda Santo Antonio</a> -->
+<!-- <a href="#encl">Enclosures version (the one available)</a> -->
+<!-- <a href="#SEC1">GNU Free Documentation License</a> -->
+<!-- <a href="#SEC4">How to use this License for your documents</a>   -->
  
-</div> <!-- sectionnav -->
+<!-- </div> <\!-- sectionnav -\-> -->
 
 
 
@@ -928,23 +928,23 @@ to permit their use in free software.
 </p>
 
 <hr />
-<address>
-  <a href="mailto:rdiaz@ligarto.org">Ram&oacute;n D&iacute;az-Uriarte</a>
-</address>
+<!-- <address> -->
+<!--   <a href="mailto:rdiaz@ligarto.org">Ram&oacute;n D&iacute;az-Uriarte</a> -->
+<!-- </address> -->
 
 
-<hr />
+<!-- <hr /> -->
 
-<p>
-<a href="http://validator.w3.org/check?uri=referer">
-<img src="../valid-xhtml10.png" width="88" height="31" alt="Valid XHTML 1.0!" /></a>
+<!-- <p> -->
+<!-- <a href="http://validator.w3.org/check?uri=referer"> -->
+<!-- <img src="../valid-xhtml10.png" width="88" height="31" alt="Valid XHTML 1.0!" /></a> -->
 
-<a href="http://www.anybrowser.org/campaign/"> 
-<img src="../anybrowser3.gif" width="88" height="31" alt="Viewable With Any
-Browser" /></a>
-</p>
+<!-- <a href="http://www.anybrowser.org/campaign/">  -->
+<!-- <img src="../anybrowser3.gif" width="88" height="31" alt="Viewable With Any -->
+<!-- Browser" /></a> -->
+<!-- </p> -->
 
-</div>
+<!-- </div> -->
 
 
 
