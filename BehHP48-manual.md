@@ -44,7 +44,7 @@
 <br />
 <hr />
 <pre>
-      Copyright (c)  1996, 2004 Ram&oacute;n D&iacute;az-Uriarte, rdiaz@ligarto.org.
+      Copyright (c)  1996, 2004 Ram&oacute;n D&iacute;az-Uriarte.
       Permission is granted to copy, distribute and/or modify this document
       under the terms of the GNU Free Documentation License, Version 1.2
       or any later version published by the Free Software Foundation;
@@ -133,15 +133,14 @@ process the focal data, and obtain frequency of displays and other behaviors.</p
 
 <p>[For information on the workings of alarms see below].</p>
 
-
-	<p>exp6 is the master program.  It first initializes flags, clears junk,
+<p>exp6 is the master program.  It first initializes flags, clears junk,
 	etc.  Then, it asks several questions.  And, right before calling the
 	beh6 program for the focal part, it initializes Ts and Te, which are
 	used to keep track of the duration of the focal session (see below:
 	Duration of focal session).  When you start the program (and if flags
 	are in the proper state) you always enter this module.</p>
 
-	<p>beh6 has been called; it is operating as the focal program.  When the
+<p>beh6 has been called; it is operating as the focal program.  When the
 	predetermined duration of the focal is due, an alarm sounds.  Then, you
 	press the 65.3 (left arrow and division) to signal the end of the focal
 	session.  This sets flag 3.  Flag 3, plus flag 7 (which was set when
@@ -157,7 +156,7 @@ process the focal data, and obtain frequency of displays and other behaviors.</p
 	exiting the loop, beh6 calls exp1 again, but now with a different value
 	for flag 8.</p>
 
-	<p>Again in exp6.  If things go well, after the appropriate time for the
+<p>Again in exp6.  If things go well, after the appropriate time for the
 	"approach phase", the lizard will be out again.  Therefore, when you are
 	asked whether to run the antipredator or not, just press anything and
 	enter (anything except NO!).  Then, you will start the antipredator
@@ -176,7 +175,7 @@ alarms interrupt the program, and everything is left on the stack; that is why
 alarms, when due, not only produce a lovely music, but also call some program
 to start execution.)</p>
 
-	<p>Flag 8: it is not really necessary to clear flag 8 after animal lost or
+<p>Flag 8: it is not really necessary to clear flag 8 after animal lost or
 	no access in antipred part.  Because, as flag 9 is set right before the
 	antipred part starts, the program , in next run, will run the anq6
 	part.  It IS necessary that flag 8 is set in the approach 1 part (so
