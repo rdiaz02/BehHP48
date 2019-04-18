@@ -276,7 +276,7 @@ download etholog.
 <h2><a name="flow">Basic program flow</a></h2>
 <ol>
   <li>The HP 48 programs (exp6, beh6, anq6, cl6) are used, with the HP 48, to
-    collect data. (See <a name="BehHP48-manual.html">HP 48 programs
+    collect data. (See <a name="BehHP48-manual.md">HP 48 programs
     documentation</a> for details).</li>
   <li>After data from one or more lizards is collected, it is preprocessed to
     get rid of certain symbols, etc. I used an infamous word processor that I
@@ -310,7 +310,7 @@ process the focal data, and obtain frequency of displays and other behaviors.</p
 
 
 <h2><a name="hp">The HP 48 programs</a></h2>
-They have their own <a href="BehHP48-manual.html">longer explanation</a>.
+They have their own <a href="BehHP48-manual.md">longer explanation</a>.
 They were written using a text editor on a computer, and then transferred to
 the HP, were they were tested. Probably an easier way to do some of this
 today would be to use an HP 48 emulator (there is at least one, I think, for
